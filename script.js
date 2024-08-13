@@ -1,6 +1,6 @@
 // Array of project objects with name and link
 const projects = [
-    { name: 'Project 1', link: '/01_color_changer/proj1.html' },
+    { name: 'Project 1', link: '/01_color_switcher/proj1.html' },
     { name: 'Project 2', link: '' },
     { name: 'Project 3', link: '' },
     { name: 'Project 4', link: '' },
